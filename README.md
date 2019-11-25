@@ -1,3 +1,3 @@
 # freshness_template
-freshness html template
-This is the template that get from PSD from https://www.os-templates.com/ 
+freshness html template <br/>
+This template is gotten from PSD from https://www.os-templates.com/ 
